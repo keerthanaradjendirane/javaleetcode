@@ -5,4 +5,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0328-odd-even-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->

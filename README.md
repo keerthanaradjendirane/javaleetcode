@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0015-3sum) |
 | [0234-palindrome-linked-list](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 ## Recursion
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/keerthanaradjendirane/javaleetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
